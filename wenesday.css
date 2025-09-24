@@ -1,0 +1,44 @@
+
+.body{
+ background-image: url('Gargantua_black_hole_and_earth.jpg');
+ background-attachment: fixed;
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+.head{
+ width: 800px;
+ height: 200px;
+ background-color: red;
+ margin: 0.2%;
+ border-radius: 1%;
+ overflow: hidden;
+}
+.main{
+ width: 800px;
+ height: 500px;
+ background-color: yellow;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ margin: 0.2%;
+ border-radius: 1%;
+ overflow: hidden;
+}
+.child-a,.child-b{
+ width: 40%;
+ height: 40%;
+ background-color: black;
+ margin: 0.4%;
+ border-radius: 2%;
+ overflow: hidden;
+ 
+}
+.foot{
+ width: 800px;
+ height: 200px;
+ background-color: red;
+ border-radius: 2%;
+ overflow: hidden;
+}
+
+
